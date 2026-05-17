@@ -33,7 +33,7 @@ joblib
 # transformers==4.31.0
 
 # 3D-Vision
-pytorch3d @ https://github.com/MiroPsota/torch_packages_builder/releases/download/pytorch3d-0.7.6/pytorch3d-0.7.6+pt1.11.0cpu-cp310-cp310-linux_x86_64.whl
+pytorch3d @ https://github.com/MiroPsota/torch_packages_builder/releases/download/pytorch3d-0.7.6/pytorch3d-0.7.6+pt2.3.1cu121-cp310-cp310-linux_x86_64.whl
 trimesh
 chumpy
 smplx
